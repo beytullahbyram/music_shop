@@ -1,0 +1,29 @@
+body{
+    background-color: #B7C4CF;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    background-color: #EEE3CB;
+    color: #884733;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 5px;
+
+    margin-left: 120px;
+    margin-right: 120px;
+    
+}
+a{
+    color: #a34124;
+}
+h1{
+    margin: 10px;
+  }
+p{
+    text-align: center;
+}
+ul{
+    list-style-position: inside
+}
